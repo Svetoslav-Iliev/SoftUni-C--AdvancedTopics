@@ -1,0 +1,5 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\01_Problem_One_SeriesOfLetters\bin\Debug\01_Problem_One_SeriesOfLetters.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\01_Problem_One_SeriesOfLetters\bin\Debug\01_Problem_One_SeriesOfLetters.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\01_Problem_One_SeriesOfLetters\obj\Debug\01_Problem_One_SeriesOfLetters.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\01_Problem_One_SeriesOfLetters\obj\Debug\01_Problem_One_SeriesOfLetters.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\01_Problem_One_SeriesOfLetters\obj\Debug\01_Problem_One_SeriesOfLetters.pdb

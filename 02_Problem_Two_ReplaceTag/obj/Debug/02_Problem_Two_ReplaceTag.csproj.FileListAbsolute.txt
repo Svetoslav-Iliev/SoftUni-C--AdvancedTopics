@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\bin\Debug\02_Problem_Two_ReplaceTag.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\bin\Debug\02_Problem_Two_ReplaceTag.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\bin\Debug\02_Problem_Two_ReplaceTag.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\obj\Debug\02_Problem_Two_ReplaceTag.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\obj\Debug\02_Problem_Two_ReplaceTag.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Strings, Regular exressions\Strings, Regular expression\02_Problem_Two_ReplaceTag\obj\Debug\02_Problem_Two_ReplaceTag.pdb

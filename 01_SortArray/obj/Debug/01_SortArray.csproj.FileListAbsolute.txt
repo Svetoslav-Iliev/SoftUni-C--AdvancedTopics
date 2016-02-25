@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\bin\Debug\01_SortArray.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\bin\Debug\01_SortArray.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\bin\Debug\01_SortArray.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\obj\Debug\01_SortArray.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\obj\Debug\01_SortArray.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\01_SortArray\obj\Debug\01_SortArray.pdb

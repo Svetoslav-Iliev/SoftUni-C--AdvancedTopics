@@ -1,0 +1,5 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\02_SortArray_SelectionSort\bin\Debug\02_SortArray_SelectionSort.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\02_SortArray_SelectionSort\bin\Debug\02_SortArray_SelectionSort.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\02_SortArray_SelectionSort\bin\Debug\02_SortArray_SelectionSort.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\02_SortArray_SelectionSort\obj\Debug\02_SortArray_SelectionSort.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Second Time\Arrays,List,Stack,Queue homework\HomeWork\02_SortArray_SelectionSort\obj\Debug\02_SortArray_SelectionSort.pdb

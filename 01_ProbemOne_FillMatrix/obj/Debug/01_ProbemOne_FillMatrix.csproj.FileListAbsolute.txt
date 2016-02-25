@@ -1,0 +1,6 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\bin\Debug\01_ProbemOne_FillMatrix.exe.config
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\bin\Debug\01_ProbemOne_FillMatrix.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\bin\Debug\01_ProbemOne_FillMatrix.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\obj\Debug\01_ProbemOne_FillMatrix.csprojResolveAssemblyReference.cache
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\obj\Debug\01_ProbemOne_FillMatrix.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\01_ProbemOne_FillMatrix\obj\Debug\01_ProbemOne_FillMatrix.pdb

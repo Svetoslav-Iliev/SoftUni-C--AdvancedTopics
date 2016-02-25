@@ -1,0 +1,4 @@
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\02_Problem2_MaximalSum\bin\Debug\02_Problem2_MaximalSum.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\02_Problem2_MaximalSum\bin\Debug\02_Problem2_MaximalSum.pdb
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\02_Problem2_MaximalSum\obj\Debug\02_Problem2_MaximalSum.exe
+D:\Docs\SofUni\Fundamentals Level\Advanced C#\Multidimensional Arrays\Multidimensional Arrays\02_Problem2_MaximalSum\obj\Debug\02_Problem2_MaximalSum.pdb
